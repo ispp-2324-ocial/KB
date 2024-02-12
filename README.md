@@ -65,27 +65,29 @@ In short, one must first get the RFC merged into the RFC repo as a markdown file
 
 1. Work on your proposal in a Markdown file based on the template (0000-template.md) found in this repo.
 
-  * Put care into the details: RFCs that do not present convincing motivation, demonstrate understanding of the impact of the design, or are disingenuous about the drawbacks or alternatives tend to be poorly-received.
+    * Put care into the details: RFCs that do not present convincing motivation, demonstrate understanding of the impact of the design, or are disingenuous about the drawbacks or alternatives tend to be poorly-received.
 
 2. Open a new thread in Discussions and make sure to set category to "RFC".
 
-  * Build consensus and integrate feedback in the discussion thread. RFCs that have broad support are much more likely to progress.
+    * Build consensus and integrate feedback in the discussion thread. RFCs that have broad support are much more likely to progress.
 
 3. Eventually, the team will decide whether the RFC is a candidate for inclusion.
 
-  * An RFC can be modified based upon feedback from the community. Significant modifications may trigger a new final comment period.
+    * An RFC can be modified based upon feedback from the community. Significant modifications may trigger a new final comment period.
 
-  * An RFC may be rejected after discussion has settled and comments have been made summarizing the rationale for rejection. The RFC's associated pull request will be closed.
+    * An RFC may be rejected after discussion has settled and comments have been made summarizing the rationale for rejection. The RFC's associated pull request will be closed.
 
-  * An RFC may be accepted at the close of its final comment period. When the team agrees, the RFC's associated pull request will be merged,
+    * An RFC may be accepted at the close of its final comment period. When the team agrees, the RFC's associated pull request will be merged,
   at which point the RFC will become 'active'.
 
 If the proposal has been approved for inclusion, you can prepare a Pull Request:
 
-Fork this repo.
+* Fork this repo.
 
-Create your proposal as active-rfcs/0000-my-feature.md (where "my-feature" is descriptive. Assign numbers sequentially).
+* Create your proposal as active-rfcs/0000-my-feature.md (where "my-feature" is descriptive. Assign numbers sequentially).
 
-Submit a pull request. Make sure to link to the discussion thread.
+* Submit a pull request. Make sure to link to the discussion thread.
 
-**Ocial's RFC process owes inspiration from [Vue](https://github.com/vuejs/rfcs) and [React](https://github.com/reactjs/rfcs) processes'.
+---
+
+**Ocial's RFC process owes inspiration from [Vue](https://github.com/vuejs/rfcs) and [React](https://github.com/reactjs/rfcs) processes.**
