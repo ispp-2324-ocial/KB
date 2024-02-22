@@ -1,4 +1,4 @@
-<img style="display: block; margin: 0 auto" src="../assets/Texto_Ocial.png" height="100">
+<img style="display: block; margin: 0 auto" src="https://raw.githubusercontent.com/ispp-2324-ocial/KB/main/assets/Texto_Ocial.png" height="100">
 <br>
 <h1 style="text-align: center;">ISPP 2024</h1>
 <h2 style="text-align: center;">titulo doc</h2>
