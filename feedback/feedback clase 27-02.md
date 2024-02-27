@@ -22,7 +22,7 @@
     - Raúl Montalbán
 
 ## Grupo 5
-    - No se ha resumido el análisis de competidores. (Se comentó la semana pasada)
+    - No se ha resumido el análisis de competidores. (Se comentó la semana pasada). Tampoco aparece la confirmación
     - No se muestra el rendimiento por miembro del grupo
     - Como se va a gestionar a los usuarios pilotos.
     - No se muestran la Landing Page en las diapositivas poner al final el qr de la landing page
@@ -33,6 +33,8 @@
     - Decir cual es el minimo a dar para que la ONG de su visto bueno.
     - Debe decir de donde sale el porcentaje del rendimiento.
     - No se ha respetado el orden que dieron los profesores al final de la clase (facilita dar el feedback de los profesores).
+    - Indicar en qué ha afectado el problema de la BD.
+    - Landing Page y competidores siempre se pone.
 
 ## Grupo 2
     - Buena presentación.
@@ -44,9 +46,11 @@
     - Elevator tiene que estar.
     - Costes de mantenimiento (lo puesto no es mantenimiento, lo puesto es coste de operación).
     - Tener en cuenta el orden de la presentación.
+    - En el análisis de competidores indicar cual es la característica killer.
 
 ## Grupo 6
     - No decir tanto la muletilla "a grandes rasgos".
+    - Un poco rápido, cuesta saber que se va a contar/el hilo
     - No sigue el orden recomendado dado la semana pasada.
     - Mucho tiempo perdido en explicar el DAFO.
     - No se ha hablado del porcentaje de tareas que se llevan hecho para este sprint.
@@ -76,24 +80,36 @@
     - Valorar Demo en directo o grabada.
     - Hacer test cercano a su implementación, no al final del proyecto.
     - Decir si se ha realizado algo respecto a verlo en el docsaurios.
+    - Hace falta hablar de % en los datos. Por ejemplo sacarlos del INE.
+    - Indicar si alguien quiere un 10 u otra nota.
+    - En la diapositiva 29 no se lee el texto.
+    - Argumento de que la web es lenta es débil.
+    - TCO Mensual.
+    - Responsable de cada tarea.
 
 ## Grupo 1
     - No suspirar tan alto presentando.
+    - Buena sintetización del contenido.
+    - Muy buen feedback tomado
     - Buen killer opener.
     - TCO. Decir para cuantos usuarios está pensado.
     - No se ha hablado sobre la estrategia de documentación.
     - Análisis de cuanto tarda según la capacidad (saber cual es el límite de cuota).
     - Gráfica con el resumen del rendimiento de cada miembro del equipo.
+    - En la diapo 34, mejora obtenida en el tiempo.
     - No poner el DAFO.
     - Poner porcentaje respecto a los distintos análisis
     - Mejorar el análisis de rendimiento.
+    - Ver si es mejor gitflow o goldenflow.
 
-## Grupo 6
+## Grupo 3
     - Análisis de competidores, poner una linea para diferenciar los 2 tipos de los que hablan.
     - Explicar bien porque no existe esta empresa antes (y dejarlo en 2-3 palabras clave).
     - Presentaciones muy cargadas (fondos más sencillos).
+    - Unificar colores en las diapositivas.
     - Diagrama de clase (no UML pero dejar claro que representa). Si expresa el modelo del CORE, llamarlo así, no diagrama de clases.
     - Buen killer opener.
+    - Disfrutar más de la exposición.
     - Hay que presentarse.
     - Gráfica con el rendimiento, agradecer a las personas que hayan trabajado muy bien (solo en caso positivo, no en los contrarios).
     - Buena forma de poner los resultados de la retrospectiva.
@@ -101,6 +117,7 @@
     - Ajuste de colores de letras con el fondo.
     - Se han dejado las tareas más importantes de la aplicación para despues. Hay que empezar por el Core (lo que te diferencia del resto de aplicaciones).
     - Que las Demo se vean mejor.
+    - Buen complimiento commitment individual.
     - De los problemas encontrados, no se ha hablado como se ha actuado ante a ellos.
     - Buena planificación de la gestión de usuarios pilotos, pero ponerlo en un calendario.
   
@@ -113,6 +130,7 @@
     - Tener un orden claro en las presentaciones.
     - Dejar claro las diapositivas que se hayan modificado respecto la semana pasada.
     - El elevator.
+    - Indicar el responsable de cada tarea.
 
 ## Tareas
     - Plantear los minutos de las github actions (que tipo de licencia se necesita).
@@ -120,7 +138,7 @@
     - Estructura de la presentación: 15-20% de introducción, demo del final del Sprint 1, retrospectiva de lo hecho en el sprint 1, gestión usuarios pilotos, planificacion siguiente sprint, uso IAs.
     - Introduccion:killer opener, elevator, resumen competidores, resumen TCO (capex y opex), situacion actual respecto al esperado (gráfico), estimaciones a corto (4-6 meses) y largo plazo (1-2 años) de costes y beneficios (pesimistas, realistas y optimistas),equipo con roles, estado de cumplimiento del agremment. 15%
     - Demo del Sprint 1 (uso de casos Core). 15%
-    - Retrospectiva del sprint 1. 40% (Gráfica con los miembros del equipo, con cada uno), resultado de la automatización del software (codacy), riesgos y problemas encontrados, lecciones aprendidas, reloj de avance del proyecto (tiempo y presupuesto).
+    - Retrospectiva del sprint 1. 40% (Gráfica con los miembros del equipo, con cada uno), resultado de la automatización del software (codacy), riesgos y problemas encontrados, lecciones aprendidas, reloj de avance del proyecto (tiempo y presupuesto). Estado del cumplimiento del commitment y evaluación de rendimiento
     - Gestión de usuarios pilotos (cuando, cuanto tiempo, como va a ser el feedback).
     - Planificación específica del sprint 2 y lo que nos quedaría para el sprint 3.
     - Uso de IAs.
