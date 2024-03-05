@@ -96,12 +96,28 @@
 
 ## Comentarios generales
     - Documentación como código
-    - 
+    - En los entregables porner URL al docu dicho.
+    - Hacer releases.
+    - Poner mensajes en los commits.
+    - Ver las pildoras.
+    - Meter el tiempo de ver las pildoras en clockify.
 
 ## Tareas
     - Meter toda la documentación (actas, feedback y documentos), meterla en una carpeta doc.
     - Pasar los documentos a markdown (a chatgpt le puedes pasar un documento y te lo convierte a .md)
-    - 
+    - (12 marzo): sesión de retrospectiva. Hay que decidir un orden.
+    - Presentación de 15 min, donde tenemos que representar la retrospectiva genérica, con tiempo invertido, tareas hechas, rendimiento del equipo, hablar del commit agreement.
+    - Hablar del procedimiento de evaluación de los miembros del grupo
+    - ---------------------------
+    - dentro de 2 semanas: estructura similar
+    - killer opener, elevator, resumen de analisis de competidores, empezar a pensar en un story board (anuncio orientado a alguno de nuestros clientes), impacto legal del proyecto (licencia y otros aspectos legales), customer agreement.
+    - Resumen analisis TCO, situación actual respecto al total, estimaciones realistas, optimistas, DEMO de la mitad del sprint2 (comparar demo sprint1 con la del 2), datos realistas (en la demo), retrospectiva de la mitad del sprint2.
+    - ALM, hablar de como ha evolucionado la calidad del código.
+    - Gestión de riesgos que se han convertido en problemas y problemas que no vengan de riesgos. Como vamos a reaccionar y como hemos reaccionado.
+    - Reloj de avance del proyecto. (semanal y global)
+    - Gestión de usuarios pilotos (como estamos gestionando ese feedback)
+    - Planificación, reestimación del sprint2. Meter algo de pago para el sprint2.
+    - Report de IAs, y qr de la landing
 
 ## Otras anotaciones
 - 
