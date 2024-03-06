@@ -2,7 +2,7 @@
 
 Fecha: miercoles 06/03/2024 
 Hora inicio: 13:00h 
-Hora finalización: h 
+Hora finalización: 13:50h 
 Lugar: Discord 
 Motivo: reunión de organización semanal para los miembros de frontend 
 
